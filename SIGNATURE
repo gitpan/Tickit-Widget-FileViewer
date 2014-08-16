@@ -1,0 +1,49 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.73.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 73891b2a9fe8a42829d61ca05c7f864e407f6bd7 Changes
+SHA1 b62bf8b7c1ca43132d72a8584321be20d42e9306 INSTALL
+SHA1 8a4fdad1020dbfd5154c3f042385ce86e2eefea2 LICENSE
+SHA1 a399d386f6724d9ad0c982d204ebc17b445e530c MANIFEST
+SHA1 cdd4e5f9b5f25dacdb43eea17653e5f32633d912 META.json
+SHA1 24fdd908d13bf87fbdf33d8dea231e6256f4c25d META.yml
+SHA1 36157d30ded8ddfe9f565852a84394c8d827e550 Makefile.PL
+SHA1 f281f34bd82af7ca66b8c9a25ac24e155c6b8c12 README
+SHA1 c491201a9aca0e21c98e135d77b41e89aee0cbd5 cpanfile
+SHA1 71f5c71ec845f78124beff8b2263efcb211b2547 dist.ini
+SHA1 8707e7edefaad2faaf0cd59039ab1ac1274de17d examples/view.pl
+SHA1 b0cd15ed5f9f8193e07bc869e8518269a6cb9f52 lib/Tickit/Widget/FileViewer.pm
+SHA1 c37c9ced58a6f7dd33c50d1dbf7addd181cb6d39 lib/Tickit/Widget/FileViewer.pod
+SHA1 985d9ded8d8ed7e344a09e52b1402e878e91da28 t/00-check-deps.t
+SHA1 3c5118eee7b382b57c84ec1f2a45e716f7fac476 t/00-compile.t
+SHA1 cb8d91eb3af904dafec826bc614ae3f6ea58234b t/000-report-versions-tiny.t
+SHA1 f242e380d897f0430a668ea3f2938df75c0bef55 xt/author/test-eol.t
+SHA1 198d1665317c3d91e3bb81f0a3b8dad8d4d66f20 xt/release/common_spelling.t
+SHA1 c6c3c9f7fe12058b4771449dff874b1c450c982c xt/release/mojibake.t
+SHA1 296928dbbcaffd1514ccc9b77a1e6e03cfe9b068 xt/release/pod-syntax.t
+SHA1 34513f89a70b96f6412fe2ef0ad4d475e8cac66c xt/release/synopsis.t
+SHA1 bbcd59d081d9940af5d43337ae85458075933829 xt/release/test-version.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQEcBAEBAgAGBQJT7sl2AAoJEFKElMNpjtyDKkIH/189smY58Y14Z4j10mAHCEj2
+hI36HGcdhRJZlncrpgqqGuYufo2sSzYDtVmz2Oy4e0KJnSOUPZ7mYA8lQOKj2Sie
+vSVX54+Is0uR4HllmyTvDFGpobK7NJIU8L8MxUqreRpY9Dsnlp/W1i7ZDmSsTzoj
+D7S01AzxHLkFD1Y9ap2+eqxDEx6a+Isp8wYlW9RtQmGc26/oeZRXGci0lvFbvw3f
+bRcf3ElPr5VYA4qhQ1+77sQSbL+xjcb5nOgN71ePTMiwnqUrhA7Tig2OAQ65KyaD
+OfK7Wm5PaQCJtWt0KWHpLtBv1vq53Y7z6AjhxDhislFmJm1Y/fqmA/HS9iVk/SQ=
+=BE14
+-----END PGP SIGNATURE-----
