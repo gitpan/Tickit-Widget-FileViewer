@@ -16,7 +16,7 @@ Tickit::Widget::FileViewer - support for viewing files in L<Tickit>.
 
 =head1 VERSION
 
-Version 0.001
+Version 0.002
 
 =head1 SYNOPSIS
 
