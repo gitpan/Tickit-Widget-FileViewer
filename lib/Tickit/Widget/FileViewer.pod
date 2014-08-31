@@ -16,7 +16,7 @@ Tickit::Widget::FileViewer - support for viewing files in L<Tickit>.
 
 =head1 VERSION
 
-Version 0.002
+Version 0.003
 
 =head1 SYNOPSIS
 
@@ -45,6 +45,8 @@ Takes the following named parameters:
 =over 4
 
 =item * file - the file to load
+
+=item * line - which line to jump to
 
 =back
 
@@ -124,7 +126,7 @@ L<get_style_pen|Tickit::Widget/get_style_pen>, L<get_style_text|Tickit::Widget/g
 
 =head1 AUTHOR
 
-Tom Molesworth <cpan@entitymodel.com>
+Tom Molesworth <cpan@perlsite.co.uk>
 
 =head1 LICENSE
 

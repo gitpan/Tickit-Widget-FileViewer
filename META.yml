@@ -1,7 +1,7 @@
 ---
 abstract: 'Simple file-viewing widget for Tickit'
 author:
-  - 'Tom Molesworth <cpan@entitymodel.com>'
+  - 'Tom Molesworth <cpan@perlsite.co.uk>'
 build_requires:
   File::Spec: '0'
   IO::Handle: '0'
@@ -26,4 +26,4 @@ requires:
 resources:
   bugtracker: http://rt.cpan.org/Public/Dist/Display.html?Name=Tickit-Widget-FileViewer
   homepage: http://search.cpan.org/dist/Tickit-Widget-FileViewer/
-version: '0.002'
+version: '0.003'
